@@ -1,5 +1,10 @@
-### Hi there, I'm [Your Name] 👋  
-Welcome to my GitHub profile! I'm a **UI/UX Designer**, **Web Developer**, and **Motion Graphic Enthusiast** passionate about crafting visually immersive experiences.
+<p align="center">
+  <img src="https://github.com/yourusername.png" width="120" alt="Your Avatar">
+</p>
+
+<h1 align="center">Hi there, I'm Lendra 👋</h1>
+
+<p align="center">Welcome to my GitHub profile! I'm a <strong>UI/UX Designer</strong>, <strong>Web Developer</strong>, and <strong>Motion Graphic Enthusiast</strong> passionate about crafting visually immersive experiences.</p>
 
 ---
 
@@ -14,14 +19,11 @@ Welcome to my GitHub profile! I'm a **UI/UX Designer**, **Web Developer**, and *
 ---
 
 ### 🛠️ Projects
-#### 🔥 The Luminous Path *(Coming Soon)*
-A futuristic and interactive portfolio with neon-inspired visuals, motion graphics, and immersive transitions.
-
 #### 🌍 Sarang Glatik Website *(Motorcycle Community Website)*
 A website designed for the Sarang Glatik motorcycle community to showcase events, galleries, and news.
 
-#### 🍨 Momin Aneka Es *(Business Website for Ice Drinks)*
-An online platform to promote and expand the business reach of Momin Aneka Es.
+#### 🔥 The Luminous Path *(Coming Soon)*
+A futuristic and interactive portfolio with neon-inspired visuals, motion graphics, and immersive transitions.
 
 #### 📅 Custom Calendar App *(In Development)*
 A customizable calendar app for Android with personalized themes and backgrounds.
@@ -37,8 +39,10 @@ A customizable calendar app for Android with personalized themes and backgrounds
 ---
 
 ### 💬 Connect with Me
-- 📷 **Instagram**: [@yourusername](#)
-- 💼 **LinkedIn**: [Your Name](#)
-- 🌐 **Website**: [Coming Soon](#)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+</p>
 
 🔹 *Let's create something amazing together!* ✨
