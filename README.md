@@ -14,16 +14,13 @@
 - 🎥 **Video & Graphics Editing**: Skilled in tools like **Alight Motion, Photoshop, Canva, CapCut, and Pixellab**.
 - 📱 **Mobile App Enthusiast**: Exploring custom UI for Android apps.
 - 🔧 **Tech Stack**: `HTML` | `CSS` | `JavaScript` | `Next.js` | `Tailwind CSS` | `Framer Motion`
-- 🌌 **Portfolio Concept**: [The Luminous Path ✨](#) *(coming soon!)*
+- 🌌 **Portfolio Concept**:*(coming soon!)*
 
 ---
 
 ### 🛠️ Projects
 #### 🌍 Sarang Glatik Website *(Motorcycle Community Website)*
 A website designed for the Sarang Glatik motorcycle community to showcase events, galleries, and news.
-
-#### 🔥 The Luminous Path *(Coming Soon)*
-A futuristic and interactive portfolio with neon-inspired visuals, motion graphics, and immersive transitions.
 
 #### 📅 Custom Calendar App *(In Development)*
 A customizable calendar app for Android with personalized themes and backgrounds.
